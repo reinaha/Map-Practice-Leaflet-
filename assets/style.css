@@ -1,0 +1,13 @@
+* {
+	margin:0;
+}
+
+#map {
+	height: 90vh;
+	border: thin red solid;
+}
+
+.bus-stop{
+	background-color: blue;
+	border-radius: 15px;
+}
